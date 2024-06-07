@@ -10,7 +10,7 @@
 #define OLED_SCL 15
 
 
-const char *ssid = "ammar";
+const char *ssid = "ESP32-CAM";
 const char *password = "";
 
 const char *dnsName = "speedAmmar"; // Custom domain name for the ESP32-CAM

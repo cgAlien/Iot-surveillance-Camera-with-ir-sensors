@@ -13,7 +13,7 @@
 const char *ssid = "ESP32-CAM";
 const char *password = "";
 
-const char *dnsName = "speedAmmar"; // Custom domain name for the ESP32-CAM
+const char *dnsName = "speedTest"; // Custom domain name for the ESP32-CAM
 
 const byte DNS_PORT = 53;
 DNSServer dnsServer;
